@@ -18,7 +18,7 @@ p,ul {margin-bottom:8px;}
   transform: perspective(1px) translateY(-50%);
 }
 body {
-  background: #F54927  url(../images/bckgr.png) repeat-x left top;
+  background: #F54927  url(../bckgr.png) repeat-x left top;
   background-color: #F54927;
   font: 15px myFont;
   color: black;
@@ -50,7 +50,7 @@ main {
   width: 998px;
   height: 340px;
   margin: 0 auto;
-  background: url(../images/head.png) no-repeat top left;
+  background: url(../head.png) no-repeat top left;
 }
 #header h1 {
   font-size: 36px;
@@ -65,13 +65,13 @@ main {
   width: 998px;
   height: auto;
   margin: 0 auto;
-  background: url(../images/content.png) repeat-y top left;
+  background: url(../content.png) repeat-y top left;
 }
 #footer {
   width: 998px;
   height: 79px;
   margin: 0 auto;
-  background: url(../images/foot.png) no-repeat left;
+  background: url(../foot.png) no-repeat left;
   clear: both;
 }
 #footer table {
